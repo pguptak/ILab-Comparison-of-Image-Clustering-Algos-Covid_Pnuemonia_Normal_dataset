@@ -1,9 +1,3 @@
-What you have is **content-wise correct**, it just needs **structure, spacing, and consistency**.
-Below is a **fixed, clean, copy-paste ready README** with proper headings, lists, and formatting — **nothing extra added**, nothing removed.
-
-You can replace your README with this directly.
-
----
 
 # COVID Chest X-Ray Clustering Project
 
