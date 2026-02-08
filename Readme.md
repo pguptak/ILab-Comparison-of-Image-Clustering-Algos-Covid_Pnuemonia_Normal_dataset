@@ -11,7 +11,7 @@ This repository contains an unsupervised clustering study performed on a **COVID
 
 The workflow followed in this project is:
 
-1. Chest X-ray images are passed through pretrained deep learning models
+1. Chest X-ray images are passed through 5 deep learning models
 2. High-level feature vectors are extracted and stored as `.npy` files
 3. Multiple clustering algorithms are applied on the extracted feature vectors
 4. Cluster labels are compared with original ground truth labels
