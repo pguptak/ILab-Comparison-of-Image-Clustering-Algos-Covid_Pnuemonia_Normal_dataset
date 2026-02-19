@@ -28,11 +28,13 @@ pip install tensorflow keras scikit-learn numpy pandas scipy joblib threadpoolct
 ## 📂 Project Structure
 ```markdown
 COVID Chest X-Ray Clustering Project
+├── Extracted Features
+├──Clustering results.csv
+├──original labels.csv
 ├── clustering_covid.ipynb
 ├── covid_pneumonia_normal.ipynb
 ├── ACCURACY COMPARISON COVID.ipynb
 ├── clustering_labels
-├── data
 ├── README.md
 ```
 
